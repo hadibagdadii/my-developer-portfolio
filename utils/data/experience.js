@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Computer Room Consultant',
+    title: 'Information System Technician',
     company: "UC Davis Information and Educational Technology",
     duration: "(Sep 2024 - Present)"
   },
@@ -9,7 +9,7 @@ export const experiences = [
     id: 2,
     title: "IT Helpdesk Technician",
     company: "UC Davis Institute of the Environment",
-    duration: "(Aug 2024 - Present)"
+    duration: "(Aug 2024 - Feb 2025)"
   },
   {
     id: 3,

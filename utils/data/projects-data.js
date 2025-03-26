@@ -1,6 +1,15 @@
 export const projectsData = [
     {
         id: 1,
+        name: 'UC Davis EcoCAR',
+        description: "A student organization that competes in a four-year collegiate automotive engineering competition, providing an unparalleled, hands-on educational experience that transforms the traditional classroom environment into a hub of automotive innovation",
+        tools: ['Simulink', 'Matlab', 'JIRA', 'Confluence', 'RTMaps', 'Bitbucket', 'C++'],
+        role: 'Systems Integration Engineer',
+        code: 'https://ecocar.ucdavis.edu/',
+        demo: '',
+    },
+    {
+        id: 2,
         name: 'IT Vulnerability Tracker',
         description: "A Python script to detect vulnerabilities and create ServiceNow tickets for these vulnerabilities to be addressed by my IT team",
         tools: ['Python', 'Visual Studio', 'Github', 'argparse', 'csv', 'json', 'getpass', 'os', 'pathlib', 'smtplib', 'ssl', 'email.mime', 'Tenable Security Center API', 'COE IT Admin Tools API', 'UCD Network API', 'Office365 SMTP Server', 'Dynamic File Creation'],
@@ -9,7 +18,7 @@ export const projectsData = [
         demo: '',
     },
     {
-        id: 2,
+        id: 3,
         name: 'AI Car Evaluator',
         description: 'A python program that uses supervised machine learning to rate cars based on features like price, safety, capacity, etc. with 85%+ accuracy. Processed and analyzed data from over 1,000 car listings',
         tools: ['Python', 'Visual Studio', 'Github', 'Flask', 'Pandas', 'NumPy', 'ONNX', 'skl2onnx', 'Interoperability', 'Dynamic Form Handling'],
@@ -18,7 +27,7 @@ export const projectsData = [
         demo: '',
     },
     {
-        id: 3,
+        id: 4,
         name: 'Minimalistic Productivity App',
         description: "A Python productivity To-Do tracker webapp, designed to aid people in keeping track of things they need to do",
         tools: ['Python', 'Visual Studio', 'Github', 'Flask', 'SQLAlchemy', 'Local Development', 'ORM Integration'],
@@ -27,7 +36,7 @@ export const projectsData = [
         demo: '',
     },
     {
-        id: 4,
+        id: 5,
         name: 'Food Bank Recipient Tracking',
         description: 'Developed a C++ platform to help a non-profit store and retrieve recipient data. Replaced a paper sign-up process in 2021, improving user experience and reducing wait times by 70%. Managed data for over 2,000 recipients annually, serving more than 500 users',
         tools: ['C++', 'Code::Blocks', 'GCC', 'CSV Files', 'wxWidgets', 'Form Handling', 'Object-Oriented Design'],
