@@ -2,7 +2,7 @@ export const personalData = {
   name: "Hadi Bagdadi",
   profile: '/profile.png',
   designation: "Software Developer",
-  description: "My name is Hadi Bagdadi, and I am a professional programmer with a passion for learning and problem-solving. I pride myself on being a quick learner with a self-driven attitude, always eager to explore new technologies and broaden my expertise. My core strength lies in Python programming, but I am also highly experienced in developing full-stack applications. I am enthusiastic about taking on new challenges and am open to opportunities that align with my skills and interests.",
+  description: "My name is Hadi Bagdadi, and I am a Computer Science and Engineering student at UC Davis with a passion for building impactful systems that blend software, data, and automation. Whether it’s designing intelligent components for autonomous vehicles, building full-stack applications, or diving into cybersecurity and IT infrastructure, I approach every challenge with curiosity and determination. I’m a fast learner with a hands-on mindset, and I love solving real-world problems through code",
   email: 'bagdadihadi@gmail.com',
   phone: '+1 (510) 579-1523',
   address: '4104 Fairwood St, Fremont, CA, USA, 94538',
@@ -14,5 +14,5 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/24655377/hadi-bagdadi',
   leetcode: "https://leetcode.com/u/bagdadihadi/",
   devUsername: "hbagdadi",
-  resume: "https://drive.google.com/file/d/1fTsMbCTgeVzzEwwhAi8kpXtAi9YBcTjF/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1_s2qda7_9kYUFkFooLNXaPsQgub7Xgxq/view?usp=sharing"
 }
