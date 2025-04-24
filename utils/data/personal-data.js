@@ -2,7 +2,7 @@ export const personalData = {
   name: "Hadi Bagdadi",
   profile: '/profile.png',
   designation: "Software Developer",
-  description: "My name is Hadi Bagdadi, and I am a Computer Science and Engineering student at UC Davis with a passion for building impactful systems that blend software, data, and automation. Whether it’s designing intelligent components for autonomous vehicles, building full-stack applications, or diving into cybersecurity and IT infrastructure, I approach every challenge with curiosity and determination. I’m a fast learner with a hands-on mindset, and I love solving real-world problems through code",
+  description: "My name is Hadi Bagdadi, and I am a Computer Science and Engineering student at UC Davis with a passion for building impactful systems that blend software, data, and automation. Whether it’s designing intelligent components for autonomous vehicles, building full-stack applications, or diving into cybersecurity and IT infrastructure, I approach every challenge with curiosity and determination. I’m a fast learner with a hands-on mindset, and I love solving real-world problems through code.",
   email: 'bagdadihadi@gmail.com',
   phone: '+1 (510) 579-1523',
   address: '4104 Fairwood St, Fremont, CA, USA, 94538',
