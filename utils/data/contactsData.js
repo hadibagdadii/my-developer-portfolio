@@ -5,7 +5,7 @@ export const contactsData = {
     github: 'https://github.com/hadibagdadii',
     instagram: 'https://www.instagram.com/hadibagdadii?igsh=NTc4MTIwNjQ2YQ==',
     // facebook: 'https://www.facebook.com',
-    linkedIn: 'https://www.linkedin.com/in/hadi-bagdadi-74557b200/',
+    linkedIn: 'www.linkedin.com/in/hadibagdadi',
     // twitter: 'https://twitter.com',
     // stackOverflow: 'https://stackoverflow.com',
     devUsername: "hadibagdadii"
