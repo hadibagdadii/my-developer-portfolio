@@ -112,8 +112,9 @@ function HeroSection() {
                 <span className="text-amber-300">Hadi Bagdadi</span>
                 <span className="text-gray-400">{`',`}</span>
               </div>
+
               <div className="ml-4 lg:ml-8 mr-2">
-                <span className=" text-white">skills:</span>
+                <span className="text-white">languages:</span>
                 <span className="text-gray-400">{`['`}</span>
                 <span className="text-amber-300">Python</span>
                 <span className="text-gray-400">{"', '"}</span>
@@ -121,64 +122,83 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Java</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">HTML</span>
+                <span className="text-amber-300">SQL</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">CSS</span>
+                <span className="text-amber-300">JavaScript</span>
+                <span className="text-gray-400">{"'],"}</span>
+              </div>
+
+              <div className="ml-4 lg:ml-8 mr-2">
+                <span className="text-white">frameworks:</span>
+                <span className="text-gray-400">{`['`}</span>
+                <span className="text-amber-300">TensorFlow</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">JS</span>
+                <span className="text-amber-300">PyTorch</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">MySQL</span>
+                <span className="text-amber-300">Flask</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Github</span>
+                <span className="text-amber-300">FastAPI</span>
+                <span className="text-gray-400">{"'],"}</span>
+              </div>
+
+              <div className="ml-4 lg:ml-8 mr-2">
+                <span className="text-white">tools:</span>
+                <span className="text-gray-400">{`['`}</span>
+                <span className="text-amber-300">Docker</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">GitHub</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">JIRA</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">ServiceNow</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">AWS</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">and more!</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
-              <div>
-                <span className="ml-4 lg:ml-8 mr-2 text-white">hardWorker:</span>
+
+              <div className="ml-4 lg:ml-8 mr-2">
+                <span className="text-white">domains:</span>
+                <span className="text-gray-400">{`['`}</span>
+                <span className="text-amber-300">Machine Learning</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Backend Engineering</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Data Analytics</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">DevOps</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Simulation</span>
+                <span className="text-gray-400">{"'],"}</span>
+              </div>
+
+              <div className="ml-4 lg:ml-8 mr-2">
+                <span className="text-white">experience:</span>
+                <span className="text-gray-400">{`{`}</span>
+              </div>
+
+              <div className="ml-8 lg:ml-16 mr-2">
+                <span className="text-white">systemDesign:</span>
                 <span className="text-orange-400">true</span>
                 <span className="text-gray-400">,</span>
               </div>
-              <div>
-                <span className="ml-4 lg:ml-8 mr-2 text-white">quickLearner:</span>
+              <div className="ml-8 lg:ml-16 mr-2">
+                <span className="text-white">fullStackDevelopment:</span>
                 <span className="text-orange-400">true</span>
                 <span className="text-gray-400">,</span>
               </div>
-              <div>
-                <span className="ml-4 lg:ml-8 mr-2 text-white">problemSolver:</span>
+              <div className="ml-8 lg:ml-16 mr-2">
+                <span className="text-white">cloudDeployment:</span>
                 <span className="text-orange-400">true</span>
                 <span className="text-gray-400">,</span>
               </div>
-              <div>
-                <span className="ml-4 lg:ml-8 mr-2 text-green-400">hireable:</span>
-                <span className="text-orange-400">function</span>
-                <span className="text-gray-400">{'() {'}</span>
+              <div className="ml-8 lg:ml-16 mr-2">
+                <span className="text-white">automation:</span>
+                <span className="text-orange-400">true</span>
               </div>
-              <div>
-                <span className="ml-8 lg:ml-16 mr-2 text-orange-400">return</span>
-                <span className="text-gray-400">{`(`}</span>
+              <div className="ml-4 lg:ml-8 mr-2">
+                <span className="text-gray-400">{`},`}</span>
               </div>
-              <div>
-                <span className="ml-12 lg:ml-24 text-cyan-400">this.</span>
-                <span className="mr-2 text-white">hardWorker</span>
-                <span className="text-amber-300">&amp;&amp;</span>
-              </div>
-              <div>
-                <span className="ml-12 lg:ml-24 text-cyan-400">this.</span>
-                <span className="mr-2 text-white">quickLearner</span>
-                <span className="text-amber-300">&amp;&amp;</span>
-              </div>
-              <div>
-                <span className="ml-12 lg:ml-24 text-cyan-400">this.</span>
-                <span className="mr-2 text-white">problemSolver</span>
-                {/* <span className="text-amber-300">&amp;&amp;</span> */}
-              </div>
+
               {/* <div>
                 <span className="ml-12 lg:ml-24 text-cyan-400">this.</span>
                 <span className="mr-2 text-white">skills.length</span>
