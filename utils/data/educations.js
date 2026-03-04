@@ -2,9 +2,9 @@ export const educations = [
   {
     id: 1,
     title: "Master's of Science",
-    major: "Artificial Intelligence",
+    major: "Computer Science",
     duration: "2026 - 2027",
-    institution: "San Jose State University",
+    institution: "Georgia Institute of Technology",
   },
   {
     id: 2,

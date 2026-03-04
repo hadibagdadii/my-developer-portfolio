@@ -1,8 +1,8 @@
 export const personalData = {
   name: "Hadi Bagdadi",
   profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is Hadi Bagdadi, and I am a Computer Science graduate from UC Davis with hands-on experience in full-stack development, cloud infrastructure, and system design. I am proficient in building scalable web applications, designing RESTful APIs, and working across technologies like Python, JavaScript, C++, Docker, and AWS. I am passionate about solving real-world problems through clean code, performance optimization, and collaborative development.",
+  designation: "Software Engineer",
+  description: "CS graduate from UC Davis currently working as an ML Engineer, with a background spanning full-stack development, cloud infrastructure, and AI systems. I've built everything from computer vision pipelines and LangChain agents to healthcare billing APIs and real-time chat systems — always with an emphasis on clean architecture and measurable impact. I thrive in environments where I can move fast across the stack and ship things that matter.",
   email: 'bagdadihadi@gmail.com',
   phone: '+1 (510) 579-1523',
   address: '4104 Fairwood St, Fremont, CA, USA, 94538',
@@ -14,5 +14,5 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/24655377/hadi-bagdadi',
   leetcode: "https://leetcode.com/u/bagdadihadi/",
   devUsername: "hbagdadi",
-  resume: "https://drive.google.com/file/d/1ZgSbeGqvtrpOCVTgQYrzZfuu9zXHNfFi/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1nW7RWijfe9E9YNLpDgAghjkgLLJMJ__s/view?usp=sharing"
 }

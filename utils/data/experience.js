@@ -1,32 +1,32 @@
 export const experiences = [
   {
     id: 1,
-    title: 'IT Infrastructure Engineer',
-    company: "UC Davis Information and Educational Technology",
-    duration: "(Sep 2024 - Present)"
+    title: 'Machine Learning Engineer',
+    company: "Comet Tech",
+    duration: "(Sep 2025 - Present)"
   },
-  // {
-  //   id: 2,
-  //   title: "IT Helpdesk Technician",
-  //   company: "UC Davis Institute of the Environment",
-  //   duration: "(Aug 2024 - Feb 2025)"
-  // },
   {
     id: 2,
+    title: "Backend Software Engineer",
+    company: "Zayn iQ",
+    duration: "(Aug 2025 - Dec 2025)"
+  },
+  {
+    id: 3,
+    title: "Software Engineer",
+    company: "UC Davis Information & Educational Technology",
+    duration: "(Sep 2024 - Aug 2025)"
+  },
+  {
+    id: 4,
     title: "Full Stack Software Engineering Intern",
     company: "CDC Labs",
     duration: "(May 2023 - Sep 2023)"
   },
-  // {
-  //   id: 4,
-  //   title: "Front-End & Python Camp Lead",
-  //   company: "Camp Tawheed - Summer Camp",
-  //   duration: "(July 2022 & July 2023)"
-  // },
   {
-    id: 3,
+    id: 5,
     title: "Site Reliability Engineering Intern",
     company: "Bista Solutions",
-    duration: "(June 2021 - Aug 2021)"
+    duration: "(Jun 2021 - Aug 2021)"
   }
 ]
