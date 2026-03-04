@@ -2,7 +2,7 @@ export const personalData = {
   name: "Hadi Bagdadi",
   profile: '/profile.png',
   designation: "Software Engineer",
-  description: "CS graduate from UC Davis currently working as an ML Engineer, with a background spanning full-stack development, cloud infrastructure, and AI systems. I've built everything from computer vision pipelines and LangChain agents to healthcare billing APIs and real-time chat systems — always with an emphasis on clean architecture and measurable impact. I thrive in environments where I can move fast across the stack and ship things that matter.",
+  description: "CS graduate from UC Davis currently working as an ML Engineer, with a background spanning full-stack development, cloud infrastructure, and AI systems. I've built everything from computer vision pipelines and LangChain agents to healthcare billing APIs and real-time chat systems, always with an emphasis on clean architecture and measurable impact. I thrive in environments where I can move fast across the stack and ship things that matter.",
   email: 'bagdadihadi@gmail.com',
   phone: '+1 (510) 579-1523',
   address: '4104 Fairwood St, Fremont, CA, USA, 94538',
